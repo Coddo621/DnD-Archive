@@ -1,4 +1,1 @@
-1st long term campaign: [[The Depths of the Mind]]
-- [[Davey Jones' Locker Drink Menu]]
-- [[Zar't'uth]]
-- [[Kelthann]]
+*   [Creature list](https://www.dndbeyond.com/monsters)
